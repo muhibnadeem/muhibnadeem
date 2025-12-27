@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working onNext.js, React, React Native,Node, SQL, Git<br>👯 I’m looking to collaborate onWeb Development and App Development Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Next.js, React, React Native, Node.js, SQL, Git<br>
+👯 I’m looking to collaborate on Web Development and App Development Projects<br>
+🤝 I’m looking for help with building scalable full-stack applications and backend optimization<br>
+🌱 I’m currently learning advanced React & Next.js, Node.js best practices, and SQL database design<br>
+💬 Ask me about React, React Native, Next.js, REST APIs, Node.js, SQL, and Git<br>
+⚡ Fun fact: I enjoy debugging complex issues more than writing new code 😄
+
 
 
 ## 🌐 Socials:
